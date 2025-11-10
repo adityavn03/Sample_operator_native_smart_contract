@@ -1,0 +1,24 @@
+{
+  "name": "My NFT Collection",
+  "symbol": "NB",
+  "description": "A collection of awesome NFTs.",
+  "seller_fee_basis_points": 500,
+  "image": "collection.png",
+  "external_url": "https://example.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "r9pozbBRo3NHxfoNT77ULXWwdUWQvZjZWvxcBwHTkaV",
+        "share": 100
+      }
+    ]
+  }
+}

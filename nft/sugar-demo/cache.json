@@ -1,0 +1,50 @@
+{
+  "program": {
+    "candyMachine": "X4vYkj1Z3wmZzQjeBWs9XfuDsg4C6dAJFbL61RBDMeS",
+    "candyGuard": "F7mQeYynMPyo3EaKLpa4E2sgbjiHQEE6ZGZv1hMfonXt",
+    "candyMachineCreator": "Esik4frR6fPLaPJTCZk42jDeWSMZYUffT3QsBzuz7Wxu",
+    "collectionMint": "9Myg8nmVwat3J2XPx2RwqeJZu8QMgUd8F9M5zT9Xk3pQ"
+  },
+  "items": {
+    "-1": {
+      "name": "My NFT Collection",
+      "image_hash": "7df1927f5fb34369f8393267992b3ad141696c9d05399c2a97a191b2f7d99c2c",
+      "image_link": "https://gateway.irys.xyz/3nN8nVrSS6eDbDAXig7enGFeVFeekLcVMfDLZTcLxKVX?ext=png",
+      "metadata_hash": "3a598f3b8980aa3da99d47c6fc0e1c9c3be5cb8f220fbd4edd8d2262cb746afb",
+      "metadata_link": "https://gateway.irys.xyz/5U1ZbL7H7DmUF2rMXkxUBXpkCKXN4jhMF2dNTHY8uUWU",
+      "onChain": true
+    },
+    "0": {
+      "name": "My NFT #0",
+      "image_hash": "d94d7f5fe7d99098e339713b6eb1289b485069f7a4384d3449580f815fba8974",
+      "image_link": "https://gateway.irys.xyz/Efc51qYfmMbQmRWUjtr8yPg58rTknGSrr149AVbdRN7s?ext=png",
+      "metadata_hash": "1869ca07a4a65dd6c802d17ed06849e6adce6e53ca826b34593b1a0bde56cbda",
+      "metadata_link": "https://gateway.irys.xyz/vdCvYrhEL17pezTbmD6SqRz6Lm9XVh2UaS7k3VWEpGd",
+      "onChain": true
+    },
+    "1": {
+      "name": "My NFT #1",
+      "image_hash": "3c7f3c54971be47b4b8ef0011bc8dcc40063df75c3128521ed23ea63b812a87b",
+      "image_link": "https://gateway.irys.xyz/EUnYvW8PyFRJd1ZGwvCu3aSAt6nki7RDsUZn36V2irGH?ext=png",
+      "metadata_hash": "7d68a2b3d0b2fa9f2352e51a30ce84c23b2914bfaf4e9714b845d9a40d9c7721",
+      "metadata_link": "https://gateway.irys.xyz/Dz6oEJYAKBQC1B3Rn1hW5L9nEUaaWnq2cEsd3UrDdr6C",
+      "onChain": true
+    },
+    "2": {
+      "name": "My NFT #2",
+      "image_hash": "8063f75b60c3cedbf0d116cfcd8f3cdc75e53d93618b225fec38d32f9b0b668d",
+      "image_link": "https://gateway.irys.xyz/GRHR187rnNBozJ9jgXiNHAHvwq5CxwrjuiRiRuUcvnD?ext=png",
+      "metadata_hash": "1e37e4e914f12fb460636de63fec8c562bd723afa6ffbc2cb724d31a1cfb1517",
+      "metadata_link": "https://gateway.irys.xyz/4LgdYkCMt1NBW34BFcUGzCyGW6N13PPktyCZLXcEoNRr",
+      "onChain": true
+    },
+    "3": {
+      "name": "My NFT #3",
+      "image_hash": "03a59b34fa193b6a69ed40f366cc4dbd37c23b98e0b88dd8dcfb330b0a057e9c",
+      "image_link": "https://gateway.irys.xyz/4yhqXCLjJgkwsPpKatGYesGensfZEcCEx9qN7aJDFk9U?ext=png",
+      "metadata_hash": "bbf05349d0b8ce340d74e886820b6a98af143135730434be20cb492ecd62c7db",
+      "metadata_link": "https://gateway.irys.xyz/6DuZBAPXygKiAjM9cU88Zu4ED47p2Pg1JjKnFxqyvzo",
+      "onChain": true
+    }
+  }
+}

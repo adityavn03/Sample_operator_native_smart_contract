@@ -1,0 +1,12 @@
+[package]
+name = "adding_native_smart_contract"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+solana-program = "1.18.26"
+borsh = { version = "1.5.1", features = ["derive"] }
+
+
+[lib]
+crate-type=["cdylib","lib"]

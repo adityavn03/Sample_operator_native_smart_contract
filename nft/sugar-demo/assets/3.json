@@ -1,0 +1,18 @@
+{
+  "name": "My NFT #3",
+  "symbol": "NB",
+  "description": "This is NFT number 3 from my first Solana collection.",
+  "seller_fee_basis_points": 500,
+  "image": "3.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Purple" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ],
+  "properties": {
+    "files": [{ "uri": "3.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      { "address": "r9pozbBRo3NHxfoNT77ULXWwdUWQvZjZWvxcBwHTkaV", "share": 100 }
+    ]
+  }
+}

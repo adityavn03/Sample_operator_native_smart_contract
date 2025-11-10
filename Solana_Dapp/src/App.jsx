@@ -52,7 +52,7 @@ const Sidebar = ({ activeTab, setActiveTab }) => {
     return (
         <div className="w-full sm:w-64 min-h-screen max-h-screen p-0 flex-shrink-0 max-w-full">
             <div className="p-4 font-bold text-lg bg-blue-600 text-white dark:bg-blue-900">
-                Solana DApp Platform
+                Solana Voting System
             </div>
             <nav className="mt-0">
                 {menuItems.map((item) => (
