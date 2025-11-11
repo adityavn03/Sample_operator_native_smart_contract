@@ -1,1 +1,32 @@
-/target
+# ---- Rust ----
+/target/
+**/*.rs.bk
+**/.rustc_info.json
+**/flycheck*
+Cargo.lock
+
+# ---- Node / Bun ----
+/test/node_modules/
+/test-ledger/node_modules/
+bun.lock
+package-lock.json
+yarn.lock
+dist/
+build/
+.cache/
+*.log
+*.tsbuildinfo
+
+# ---- IDE / System ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ---- Test / Local ----
+/test/output/
+/test/temp/
+/test-ledger/output/
+/test-ledger/temp/
