@@ -30,3 +30,4 @@ Thumbs.db
 /test/temp/
 /test-ledger/output/
 /test-ledger/temp/
+test-ledger/rocksdb/
