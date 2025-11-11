@@ -34,3 +34,4 @@ test-ledger/rocksdb/
 test-ledger/accounts/run/
 test-ledger/accounts/snapshot/
 test-ledger/snapshot-*.tar.zst
+test-ledger/rocksdb/
