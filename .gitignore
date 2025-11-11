@@ -31,3 +31,6 @@ Thumbs.db
 /test-ledger/output/
 /test-ledger/temp/
 test-ledger/rocksdb/
+test-ledger/accounts/run/
+test-ledger/accounts/snapshot/
+test-ledger/snapshot-*.tar.zst
